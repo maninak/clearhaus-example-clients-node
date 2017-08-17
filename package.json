@@ -1,0 +1,28 @@
+{
+  "name": "clearhaus-example-clients-node",
+  "version": "0.1.0",
+  "description": "A collection of example clients implemented in JavaScript and targeting the Clearhaus API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maninak/clearhaus-example-clients-node.git"
+  },
+  "homepage": "https://github.com/maninak/clearhaus-example-clients-node#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "traverson": "^6.0.3",
+    "traverson-hal": "^6.0.0"
+  },
+  "keywords": [
+    "clearhaus",
+    "rest",
+    "api",
+    "client"
+  ],
+  "author": "maninak",
+  "license": "MIT"
+}
